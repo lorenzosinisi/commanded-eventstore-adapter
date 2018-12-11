@@ -42,7 +42,7 @@ defmodule Commanded.EventStore.Adapters.EventStore.Mixfile do
       # {:commanded, ">= 0.16.0", runtime: false},
       {:commanded, github: "commanded/commanded", branch: "master", runtime: false},
       # {:eventstore, ">= 0.14.0"},
-      {:eventstore, github: "commanded/eventstore", branch: "master"},
+      {:eventstore, github: "commanded/eventstore", ref: "033b31ee078d2515cea39bd73b5005d8bbf96321"},
 
       # Build & test tools
       {:ex_doc, "~> 0.19", only: :dev},

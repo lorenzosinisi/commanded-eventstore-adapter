@@ -5,7 +5,7 @@
   "decimal": {:hex, :decimal, "1.5.0", "b0433a36d0e2430e3d50291b1c65f53c37d56f83665b43d79963684865beab68", [:mix], [], "hexpm"},
   "earmark": {:hex, :earmark, "1.2.6", "b6da42b3831458d3ecc57314dff3051b080b9b2be88c2e5aa41cd642a5b044ed", [:mix], [], "hexpm"},
   "elixir_uuid": {:hex, :elixir_uuid, "1.2.0", "ff26e938f95830b1db152cb6e594d711c10c02c6391236900ddd070a6b01271d", [:mix], [], "hexpm"},
-  "eventstore": {:git, "https://github.com/commanded/eventstore.git", "635ec6af6dfac067f172d3ca64d9b08c0044bff0", [branch: "master"]},
+  "eventstore": {:git, "https://github.com/commanded/eventstore.git", "033b31ee078d2515cea39bd73b5005d8bbf96321", [ref: "033b31ee078d2515cea39bd73b5005d8bbf96321"]},
   "ex_doc": {:hex, :ex_doc, "0.19.1", "519bb9c19526ca51d326c060cb1778d4a9056b190086a8c6c115828eaccea6cf", [:mix], [{:earmark, "~> 1.1", [hex: :earmark, repo: "hexpm", optional: false]}, {:makeup_elixir, "~> 0.7", [hex: :makeup_elixir, repo: "hexpm", optional: false]}], "hexpm"},
   "file_system": {:hex, :file_system, "0.2.6", "fd4dc3af89b9ab1dc8ccbcc214a0e60c41f34be251d9307920748a14bf41f1d3", [:mix], [], "hexpm"},
   "fsm": {:hex, :fsm, "0.3.1", "087aa9b02779a84320dc7a2d8464452b5308e29877921b2bde81cdba32a12390", [:mix], [], "hexpm"},
